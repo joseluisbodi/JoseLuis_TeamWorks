@@ -8,8 +8,8 @@ have to:
 - [x] Fork each other classmate repository,
 - [x] Make some changes and send a pull request,
 - [x] Approve the pull request from your partner
-- [ ] Make changes in your own repository,
-- [ ] Sync the repository you forked with the upstream repository
+- [x] Make changes in your own repository,
+- [x] Sync the repository you forked with the upstream repository
 
 Roberto: Now it's time to work together. 
 José Luis: Yes! let's go and work together
