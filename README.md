@@ -10,3 +10,5 @@ have to:
 - [ ] Approve the pull request from your partner
 - [ ] Make changes in your own repository,
 - [ ] Sync the repository you forked with the upstream repository
+
+Roberto: Now it's time to work together. 
